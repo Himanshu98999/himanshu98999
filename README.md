@@ -14,7 +14,7 @@
 
 - 💬 Ask me about working enviroment in Cloud technologies. 
 
-- 📫 How to reach me **Himanshuch128@gmial.com**
+- 📫 How to reach me **Himanshu.diesel@gmial.com**
 
 - :notebook_with_decorative_cover: Certifications
 
