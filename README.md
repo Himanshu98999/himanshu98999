@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hems7500&label=Profile%20views&color=0e75b6&style=flat" alt="hems7500" /> </p>
 
-(https://github.com/Hems7500/Himanshu-Introduction/files/8747209/Himanshu.Choudhary.pdf)
 
 - 🔭 Currently, I'm Working with **[Birlasoft Limited](https://www.birlasoft.com/)**. Prior to this, I was working as a Cloud Support Sr. Engineer with [Mavenwave Partners](https://www.mavenwave.com/).
 
